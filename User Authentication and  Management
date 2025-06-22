@@ -1,13 +1,3 @@
 auth/
-login.js
-register.js
-logout.js
-profile.js
-passwordReset.js
-authController.js
-models/
-User.js
-routes/
-authRoutes.js
-middleware/
-authMiddleware.js
+Paging
+Payment page
