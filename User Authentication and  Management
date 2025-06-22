@@ -13,3 +13,4 @@ middleware/
 authMiddleware.js
 Pagging
 Regression
+Smoke testing
